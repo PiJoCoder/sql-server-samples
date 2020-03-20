@@ -59,7 +59,7 @@
           SQLTask:BackupActionForExistingBackups="0"
           SQLTask:BackupCreateSubFolder="False"
           SQLTask:BackupFileExtension="DWConfigbak"
-          SQLTask:BackupVerifyIntegrity="False"
+          SQLTask:BackupVerifyIntegrity="False"adfdfafdasfdas
           SQLTask:ExpireDate="2019-03-13T00:00:00"
           SQLTask:RetainDays="14"
           SQLTask:InDays="True"
